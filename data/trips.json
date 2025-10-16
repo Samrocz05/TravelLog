@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Delhi Trip",
+    "startDate": "2025-01-10",
+    "endDate": "2025-01-12",
+    "locations": [
+      {
+        "lat": 28.6139,
+        "lon": 77.2090,
+        "name": "India Gate",
+        "desc": "Visited the iconic India Gate monument.",
+        "photo": "images/delhi_india_gate.jpg"
+      },
+      {
+        "lat": 28.6129,
+        "lon": 77.2300,
+        "name": "Red Fort",
+        "desc": "Explored the historic Red Fort.",
+        "photo": "images/delhi_red_fort.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mumbai Trip",
+    "startDate": "2025-02-15",
+    "endDate": "2025-02-17",
+    "locations": [
+      {
+        "lat": 19.0760,
+        "lon": 72.8777,
+        "name": "Gateway of India",
+        "desc": "Took a ferry ride from the Gateway of India.",
+        "photo": "images/mumbai_gateway.jpg"
+      },
+      {
+        "lat": 19.2183,
+        "lon": 72.9781,
+        "name": "Marine Drive",
+        "desc": "Evening walk along Marine Drive.",
+        "photo": "images/mumbai_marine_drive.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Goa Beach Trip",
+    "startDate": "2025-03-05",
+    "endDate": "2025-03-08",
+    "locations": [
+      {
+        "lat": 15.4909,
+        "lon": 73.8278,
+        "name": "Baga Beach",
+        "desc": "Relaxed and tried water sports at Baga Beach.",
+        "photo": "images/goa_baga_beach.jpg"
+      },
+      {
+        "lat": 15.5745,
+        "lon": 73.7418,
+        "name": "Calangute Beach",
+        "desc": "Evening beach walk at Calangute.",
+        "photo": "images/goa_calangute.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bangalore Trip",
+    "startDate": "2025-04-10",
+    "endDate": "2025-04-12",
+    "locations": [
+      {
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "name": "Lalbagh Botanical Garden",
+        "desc": "Visited the beautiful Lalbagh Gardens.",
+        "photo": "images/bangalore_lalbagh.jpg"
+      },
+      {
+        "lat": 12.2958,
+        "lon": 76.6394,
+        "name": "Bangalore Palace",
+        "desc": "Explored the historic Bangalore Palace.",
+        "photo": "images/bangalore_palace.jpg"
+      }
+    ]
+  }
+]
