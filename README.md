@@ -65,6 +65,7 @@ Fully responsive design for mobile, tablet, and desktop.
 
 Demo / Screenshots
 
+https://github.com/Samrocz05/TravelLog/blob/main/demo.png
 
 
 
